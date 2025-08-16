@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-Game# Rock Paper Scissors Game 🎮✊✋✌️
+#Rock Paper Scissors Game 🎮✊✋✌️
 
 ## 📌 Project Overview
 The **Rock Paper Scissors Game** is a fun and interactive web-based project built using **HTML, CSS, and JavaScript**.  
@@ -29,10 +29,7 @@ Players can challenge the computer in a simple yet engaging interface with smoot
 
 ---
 
-## 📷 Screenshot (Optional)
-_Add a screenshot of your game UI here after running it._  
 
----
 
 ## 💡 Future Enhancements
 - Add **two-player mode**.  
@@ -40,4 +37,4 @@ _Add a screenshot of your game UI here after running it._
 - Add **sound effects** for better engagement.  
 
 ---
-✨ Built with ❤️ by **Sukesan Sukkesan**
+✨ Built with ❤️ by **Sukesan R**
