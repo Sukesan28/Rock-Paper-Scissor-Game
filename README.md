@@ -1,4 +1,4 @@
-#Rock Paper Scissors Game 🎮✊✋✌️
+# Rock Paper Scissors Game 🎮✊✋✌️
 
 ## 📌 Project Overview
 The **Rock Paper Scissors Game** is a fun and interactive web-based project built using **HTML, CSS, and JavaScript**.  
